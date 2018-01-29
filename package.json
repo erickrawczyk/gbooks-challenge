@@ -1,0 +1,16 @@
+{
+  "name": "gbooks-challenge",
+  "version": "1.0.0",
+  "description": "Google Books Search Engine",
+  "main": "main.js",
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
+  "author": "Eric Krawczyk",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-minify": "^0.2.0",
+    "parcel-bundler": "^1.5.1"
+  }
+}
